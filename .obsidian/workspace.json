@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "d3da036f0b98ec74",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89915f6db3b354d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ad406eba3d5acb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70abc253d9d5347c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee05bfb948cd9f41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc7c206c2a251953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3809c9298740a6e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e306287f1244666",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e186db6e5642253e",
+    "type": "split",
+    "children": [
+      {
+        "id": "274d1991d16b7875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78f68b01abf9f75c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dedf717e2fe14b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d9d11d57001685d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "014c84c24a5a491a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "24ad406eba3d5acb",
+  "lastOpenFiles": [
+    "javascript/modules.md",
+    "snippets/console-figlet.md",
+    "javascript/security.md",
+    "javascript/testing.md",
+    "javascript/storage.md",
+    "README.md",
+    "2022-10-25.md",
+    "tools/axios.md",
+    "javascript/node.js.md",
+    "vim/5. extras.md"
+  ]
+}
