@@ -11,11 +11,38 @@
             "id": "24ad406eba3d5acb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "javascript/testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7df2bfaabb212b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippets/scss-stagger-animation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f47d0a8ceb21bd35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "snippets/scss-stagger-animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "snippets/scss-stagger-animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "snippets/scss-stagger-animation.md"
+              }
             }
           }
         ]
@@ -128,20 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "24ad406eba3d5acb",
+  "active": "7df2bfaabb212b83",
   "lastOpenFiles": [
-    "javascript/modules.md",
-    "snippets/console-figlet.md",
-    "javascript/security.md",
     "javascript/testing.md",
+    "snippets/console-figlet.md",
+    "vim/1. moving-basics.md",
+    "javascript/modules.md",
+    "javascript/node.js.md",
     "javascript/storage.md",
+    "javascript/security.md",
     "README.md",
     "2022-10-25.md",
-    "tools/axios.md",
-    "javascript/node.js.md",
-    "vim/5. extras.md"
+    "tools/axios.md"
   ]
 }
