@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24ad406eba3d5acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df2bfaabb212b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets/scss-stagger-animation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f47d0a8ceb21bd35",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "24ad406eba3d5acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippets/console-figlet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/scss-stagger-animation.md",
+                "file": "snippets/console-figlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/scss-stagger-animation.md",
+                "file": "snippets/console-figlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/scss-stagger-animation.md"
+                "file": "snippets/console-figlet.md"
               }
             }
           }
@@ -159,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7df2bfaabb212b83",
+  "active": "24ad406eba3d5acb",
   "lastOpenFiles": [
-    "javascript/testing.md",
+    "snippets/scss-stagger-animation.md",
     "snippets/console-figlet.md",
+    "Scherm­afbeelding 2022-11-04 om 11.07.23.png.md",
+    "_img/console-figlet.png",
+    "javascript/testing.md",
     "vim/1. moving-basics.md",
     "javascript/modules.md",
     "javascript/node.js.md",
     "javascript/storage.md",
-    "javascript/security.md",
-    "README.md",
-    "2022-10-25.md",
-    "tools/axios.md"
+    "javascript/security.md"
   ]
 }
