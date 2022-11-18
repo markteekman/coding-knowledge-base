@@ -23,7 +23,3 @@ const styles = new Array(6)
 
 console.info(figlet, ...styles)
 ```
-
-## Result
-
-![[console-figlet.png]]

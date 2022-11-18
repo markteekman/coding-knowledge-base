@@ -1,0 +1,6 @@
+- Qua testing zijn er een aantal opties
+    - **Handmatig** (tijdsintensief)
+    - **Geautomatiseerd**
+        - SIMPEL Unit tests (kleine, geisoleerde onderdelen, functies, componenten). Hier heb je er een hoop van.
+        - GEMIDDELD Integration tests (onderdelen met afhankelijkheden, functies die elkaar aanroepen, componenten die andere componenten gebruiken). Hier heb je er ook aardig wat van, maar minder dan unit tests.
+        - COMPLEX End-to-End / User tests (een hele flow, zoals een aanmeld proces op een website). Hier heb je de minste van.
