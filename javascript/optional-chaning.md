@@ -1,0 +1,3 @@
+The **optional chaining (`?.`)** operator accesses an object's property or calls a function. If the object is [`undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined) or [`null`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/null), it returns [`undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined) instead of throwing an error. This way you don't have to use an `if-else` statement or a ternary operator to check if the value is undefined or not.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
