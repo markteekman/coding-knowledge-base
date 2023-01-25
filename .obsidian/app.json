@@ -3,5 +3,9 @@
   "showLineNumber": true,
   "spellcheck": true,
   "vimMode": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "spellcheckLanguages": [
+    "nl",
+    "en-US"
+  ]
 }

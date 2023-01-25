@@ -23,3 +23,26 @@ const styles = new Array(6)
 
 console.info(figlet, ...styles)
 ```
+
+## Personal Figlet
+
+```js
+const figlet = `
+%c __  __            _    _____         _                          
+%c|  \\/  | __ _ _ __| | _|_   _|__  ___| | ___ __ ___   __ _ _ __  
+%c| |\\/| |/ _\\ | '__| |/ / | |/ _ \\/ _ \\ |/ / '_ \\ _ \\ / _\\ | '_ \\ 
+%c| |  | | (_| | |  |   <  | |  __/  __/   <| | | | | | \(_| | | | |
+%c|_|  |_|\\__,_|_|  |_|\\_\\ |_|\\___|\\___|_|\\_\\_| |_| |_|\\__,_|_| |_|
+%c
+`
+
+const HUE_STEP = -30
+const HUE_OFFSET = 10
+
+const styles = new Array(6)
+	.fill(0)
+	.map((_,i) => `color: hsl(${(i * HUE_STEP) + HUE_OFFSET}deg, 100%, 70%);`)
+
+console.info(figlet, ...styles)
+console.info("%cHey there explorer! Why not checkout my GitHub profile while you're here 🚀 https://github.com/markteekman/",`color: hsl(${(5 * HUE_STEP) + HUE_OFFSET}deg, 100%, 70%); font-size: 14px`);
+```
