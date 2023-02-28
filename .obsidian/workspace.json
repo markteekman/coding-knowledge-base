@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab5f78642523b59",
+        "id": "bbf3dd937751ed11",
         "type": "tabs",
         "children": [
           {
-            "id": "eab707f52af6ad2b",
+            "id": "831be8cb58e3f9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/magic-text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f5492b498b31e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets/console-figlet.md",
+                "file": "wordpress/template-structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/magic-text.md",
+                "file": "wordpress/template-structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/magic-text.md",
+                "file": "wordpress/template-structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/magic-text.md"
+                "file": "wordpress/template-structure.md"
               }
             }
           }
@@ -158,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab707f52af6ad2b",
+  "active": "831be8cb58e3f9cf",
   "lastOpenFiles": [
+    "wordpress/svgs-and-images.md",
+    "wordpress/gutenburg.md",
+    "wordpress/breadcrumbs.md",
+    "wordpress/archive-pages.md",
+    "wordpress/advanced-custom-fields.md",
+    "wordpress/acf-component.md",
     "snippets/console-figlet.md",
-    "snippets/scss-stagger-animation.md",
-    "javascript/intersection-observer.md",
-    "javascript/optional-chaning.md",
     "snippets/confetti-js.md",
-    "snippets/typing-effect.md",
-    "snippets/magic-text.md",
-    "snippets/rainbow-button.md",
-    "Untitled.md",
-    "accessibility/tooling.md"
+    "wordpress/template-structure.md",
+    "javascript/testing.md"
   ]
 }
