@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wordpress/template-structure.md",
+                "file": "wordpress/breadcrumbs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wordpress/template-structure.md",
+                "file": "wordpress/breadcrumbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wordpress/template-structure.md",
+                "file": "wordpress/breadcrumbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wordpress/template-structure.md"
+                "file": "wordpress/breadcrumbs.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "831be8cb58e3f9cf",
   "lastOpenFiles": [
+    "wordpress/template-structure.md",
     "wordpress/svgs-and-images.md",
     "wordpress/gutenburg.md",
     "wordpress/breadcrumbs.md",
@@ -156,7 +157,6 @@
     "wordpress/acf-component.md",
     "snippets/console-figlet.md",
     "snippets/confetti-js.md",
-    "wordpress/template-structure.md",
     "javascript/testing.md"
   ]
 }
