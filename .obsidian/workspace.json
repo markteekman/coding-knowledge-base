@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf3dd937751ed11",
+        "id": "a87235330d41a110",
         "type": "tabs",
         "children": [
           {
-            "id": "831be8cb58e3f9cf",
+            "id": "7bb88a4556af9405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wordpress/breadcrumbs.md",
+                "file": "wordpress/svgs-and-images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e295cdc1efa7de8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wordpress/custom-page-templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "e186db6e5642253e",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wordpress/breadcrumbs.md",
+                "file": "wordpress/custom-page-templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wordpress/breadcrumbs.md",
+                "file": "wordpress/custom-page-templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wordpress/breadcrumbs.md"
+                "file": "wordpress/custom-page-templates.md"
               }
             }
           }
@@ -146,17 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "831be8cb58e3f9cf",
+  "active": "e295cdc1efa7de8f",
   "lastOpenFiles": [
-    "wordpress/template-structure.md",
     "wordpress/svgs-and-images.md",
-    "wordpress/gutenburg.md",
-    "wordpress/breadcrumbs.md",
-    "wordpress/archive-pages.md",
-    "wordpress/advanced-custom-fields.md",
-    "wordpress/acf-component.md",
-    "snippets/console-figlet.md",
-    "snippets/confetti-js.md",
-    "javascript/testing.md"
+    "wordpress/custom-page-templates.md",
+    "wordpress/template-parts.md",
+    "wordpress/custom-taxonomie-pages.md",
+    "wordpress/debugging.md",
+    "wordpress/archive-and-single-pages.md",
+    "wordpress/acf-blocks.md",
+    "wordpress/yoast-breadcrumbs.md",
+    "wordpress/template-structure.md",
+    "_assets/wordpress-template-structure.png",
+    "wordpress/single-pages.md"
   ]
 }

@@ -7,5 +7,9 @@
   "spellcheckLanguages": [
     "nl",
     "en-US"
-  ]
+  ],
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false
 }
