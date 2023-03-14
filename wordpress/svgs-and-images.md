@@ -23,6 +23,15 @@ To use images from the `/src/images` (which are rendered to `/dist/images`) use 
 <img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/image.png" alt="" />
 ```
 
+Inside a `picture` element:
+
+```php
+<picture>
+		<source media="(max-width: 768px)" srcset="<?php echo get_template_directory_uri() . '/src/images/material-single/single-material-hero-mobile.png'; ?>" />
+		<img src="<?php echo get_template_directory_uri() . '/src/images/material-single/single-material-hero-mobile.png'; ?>" alt="" />
+	</picture>
+```
+
 For a CSS background it's relative to the dist folder, so in most cases you'll use this path:
 
 ```scss

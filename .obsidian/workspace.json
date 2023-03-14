@@ -23,11 +23,9 @@
             "id": "e295cdc1efa7de8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "wordpress/custom-page-templates.md",
-                "mode": "source",
-                "source": false
+                "file": "_assets/vim-editing-advanced.jpg"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wordpress/custom-page-templates.md",
+                "file": "_assets/vim-editing-advanced.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wordpress/custom-page-templates.md",
+                "file": "_assets/vim-editing-advanced.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wordpress/custom-page-templates.md"
+                "file": "_assets/vim-editing-advanced.jpg"
               }
             }
           }
@@ -159,8 +157,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e295cdc1efa7de8f",
+  "active": "fc7c206c2a251953",
   "lastOpenFiles": [
+    "_assets/vim-editing-basics.jpg",
+    "_assets/vim-moving-advanced.jpg",
+    "_assets/vim-moving-basics.jpg",
+    "vim/5. extras.md",
+    "_assets/vim-extras.jpg",
+    "vim/4. editing-advanced.md",
+    "_assets/vim-editing-advanced.jpg",
+    "vim/3. editing-basics.md",
+    "vim/2. moving-advanced.md",
+    "vim/1. moving-basics.md",
+    "wordpress/yoast-breadcrumbs.md",
+    "wordpress/template-structure.md",
     "wordpress/svgs-and-images.md",
     "wordpress/custom-page-templates.md",
     "wordpress/template-parts.md",
@@ -168,8 +178,6 @@
     "wordpress/debugging.md",
     "wordpress/archive-and-single-pages.md",
     "wordpress/acf-blocks.md",
-    "wordpress/yoast-breadcrumbs.md",
-    "wordpress/template-structure.md",
     "_assets/wordpress-template-structure.png",
     "wordpress/single-pages.md"
   ]
