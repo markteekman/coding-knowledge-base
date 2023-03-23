@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a87235330d41a110",
+        "id": "00ec718976be1029",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb88a4556af9405",
+            "id": "5baf6dcaf90d78d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wordpress/svgs-and-images.md",
+                "file": "wordpress/gutenberg/gutenberg-basics.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e295cdc1efa7de8f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_assets/vim-editing-advanced.jpg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/vim-editing-advanced.jpg",
+                "file": "wordpress/gutenberg/gutenberg-basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/vim-editing-advanced.jpg",
+                "file": "wordpress/gutenberg/gutenberg-basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/vim-editing-advanced.jpg"
+                "file": "wordpress/gutenberg/gutenberg-basics.md"
               }
             }
           }
@@ -157,8 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc7c206c2a251953",
+  "active": "5baf6dcaf90d78d9",
   "lastOpenFiles": [
+    "wordpress/gutenberg/gutenkit-basics.md",
+    "wordpress/gutenberg/gutenberg-basics.md",
+    "Untitled.canvas",
+    "wordpress/acf-blocks.md",
+    "wordpress/menu-walker.md",
+    "wordpress/archive-and-single-pages.md",
+    "wordpress/custom-taxonomie-pages.md",
+    "wordpress/custom-page-templates.md",
+    "wordpress/gutenberg",
+    "wordpress/svgs-and-images.md",
     "_assets/vim-editing-basics.jpg",
     "_assets/vim-moving-advanced.jpg",
     "_assets/vim-moving-basics.jpg",
@@ -171,13 +170,8 @@
     "vim/1. moving-basics.md",
     "wordpress/yoast-breadcrumbs.md",
     "wordpress/template-structure.md",
-    "wordpress/svgs-and-images.md",
-    "wordpress/custom-page-templates.md",
     "wordpress/template-parts.md",
-    "wordpress/custom-taxonomie-pages.md",
     "wordpress/debugging.md",
-    "wordpress/archive-and-single-pages.md",
-    "wordpress/acf-blocks.md",
     "_assets/wordpress-template-structure.png",
     "wordpress/single-pages.md"
   ]
